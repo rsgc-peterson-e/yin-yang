@@ -1,6 +1,6 @@
 
 // create a canvas
-size(200, 200);
+size(400, 400);
 background(255);
 noStroke(); // take away black lining from shapes drawn it will be added later
 float circleX = width/2; //create variables to store values for the circles being drawn to create the Yin Yang
